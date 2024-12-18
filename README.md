@@ -1,6 +1,6 @@
 # Implementation-of-Heirarcheal-Clustering
 
-We had implemented the heirarcheal clustering algorithm of type complete linkage by considering different cases like: 
+Implemented the heirarcheal clustering algorithm of type complete linkage by considering different cases like: 
 
                     1. Finding the euclidean distance between 1D list from a point P and choosing the point having maximum distance. 
                     2. Intra points euclidean distance calculation by using 1D list and finding the pair of points having maximum distance. 
